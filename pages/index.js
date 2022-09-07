@@ -12,7 +12,7 @@ export default function Home() {
         <h1 className="title">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
-
+        <h2> develop test</h2>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
@@ -43,6 +43,7 @@ export default function Home() {
             <h3>Deploy &rarr;</h3>
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
+              created by hanani 
             </p>
           </a>
         </div>
